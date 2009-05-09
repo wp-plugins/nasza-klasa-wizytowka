@@ -4,7 +4,7 @@ Plugin Name: Nasza Klasa - Wizytówka
 Plugin URI: http://www.poradnik-webmastera.com/projekty/nasza_klasa_wizytowka/
 Description: Wyświetla wizytówkę z serwisu Nasza-Klasa.pl.
 Author: Daniel Frużyński
-Version: 1.0
+Version: 1.0.1
 Author URI: http://www.poradnik-webmastera.com/
 Text Domain: nasza-klasa
 */
