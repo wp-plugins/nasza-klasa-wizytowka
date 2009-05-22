@@ -13,7 +13,7 @@ Ten plugin wyświetla wizytówkę z serwisu [Nasza-Klasa.pl](http://nasza-klasa.
 
 English: This plugin shows user card from most popular Polish community site - Nasza Klasa (Our Class). It shows it as a widget.
 
-[Historia zmian](http://wordpress.org/extend/plugins/invisible-defender/other_notes/)
+[Historia zmian](http://wordpress.org/extend/plugins/nasza-klasa-wizytowka/other_notes/)
 
 == Installation ==
 
