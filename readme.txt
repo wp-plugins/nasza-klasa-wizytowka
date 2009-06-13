@@ -2,8 +2,8 @@
 Contributors: sirzooro
 Tags: nasza klasa
 Requires at least: 2.2
-Tested up to: 2.7.1
-Stable tag: 1.0.1
+Tested up to: 2.8
+Stable tag: 1.0.2
 
 Wyświetla wizytówkę z serwisu Nasza-Klasa.pl.
 
@@ -22,6 +22,10 @@ English: This plugin shows user card from most popular Polish community site - N
 1. Ciesz się swoją wizytówką z NK na swoim blogu :)
 
 == Historia zmian ==
+
+1.0.2
+
+* Plugin oznaczony jako testowany z WP 2.8
 
 1.0.1
 
